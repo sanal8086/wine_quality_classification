@@ -30,7 +30,7 @@ The dataset is relatively small. This can make it difficult to train a model tha
 
 - Train a model to predict the quality of a wine based on its physicochemical measurements. This model can then be used to evaluate the quality of new wines or to identify wines that may have defects.
 - Train a model to identify the most important variables for predicting wine quality. This information can be used to develop new winemaking techniques or to improve the accuracy of existing wine quality prediction models.
-- Use the dataset to study the relationship between wine quality and other factors, such as grape type, winemaking region, or climate.
+- Use the dataset to study the relationship between wine quality and other factors, such as grape type, winemaking region, or climate. 
   
 ## Conclusion:
 
